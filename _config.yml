@@ -1,7 +1,7 @@
 name: The Pulse
 favicon: null
-layout_spectrum: 0.9428594091441482
-typography_spectrum: 0.7400205668527633
+layout_spectrum: 0.7515
+typography_spectrum: 0.49158
 title: The Latest High End Consumer Tech
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.5584361404180527
-  lightness: 0.6226196531206369
-  saturation: 0.985535355983302
-  rhythmicContrast: 0.3613574649207294
+    - '#000000'
+    - '#f2f2f2'
+    - '#939393'
+    - '#383838'
+    - '#76602d'
+  brandStrength: 0.5625
+  lightness: 0.5
+  saturation: 0.875
+  rhythmicContrast: 0.25
 purpose: []
