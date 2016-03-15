@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-15T21:56:26.144Z'
-dateModified: '2016-03-15T21:55:04.313Z'
+description: High End Tech
+datePublished: '2016-03-15T22:11:11.172Z'
+dateModified: '2016-03-15T22:05:10.213Z'
 title: The Pulse on High End Tech
 author: []
 sourcePath: _posts/2016-03-15-the-pulse-on-high-end-tech.md
