@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-15T21:54:58.687Z'
-dateModified: '2016-03-15T21:54:25.091Z'
+datePublished: '2016-03-15T21:56:26.144Z'
+dateModified: '2016-03-15T21:55:04.313Z'
 title: The Pulse on High End Tech
 author: []
+sourcePath: _posts/2016-03-15-the-pulse-on-high-end-tech.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-15-the-pulse-on-high-end-tech.md
-published: true
 url: the-pulse-on-high-end-tech/index.html
 _type: Article
 
