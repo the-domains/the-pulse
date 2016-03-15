@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: High End Tech
-datePublished: '2016-03-15T22:11:11.172Z'
-dateModified: '2016-03-15T22:05:10.213Z'
+datePublished: '2016-03-15T22:11:59.692Z'
+dateModified: '2016-03-15T22:11:19.584Z'
 title: The Pulse on High End Tech
 author: []
 sourcePath: _posts/2016-03-15-the-pulse-on-high-end-tech.md
