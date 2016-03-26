@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: 'For the fast and the stylish, behold the Broon F830 Sport car.'
-datePublished: '2016-03-26T17:08:04.422Z'
-dateModified: '2016-03-26T17:08:04.030Z'
+datePublished: '2016-03-26T17:11:00.257Z'
+dateModified: '2016-03-26T17:09:41.966Z'
 title: Henes Broon F830 Sport Kids Car Review
 author: []
 sourcePath: _posts/2016-03-26-henes-broon-f830-sport-kids-car-review.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: henes-broon-f830-sport-kids-car-review/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Henes Broon F830 Sport Kids Car Review
