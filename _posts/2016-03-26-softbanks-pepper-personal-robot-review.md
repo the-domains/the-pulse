@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "Personal robots are starting show up in our homes. But if you think it’s going to mix a drink, cook a meal, or do laundry, think again. In fact, today's personal robots can help manage everyday work and entertain but In in spite of their sophistication, most home robots just talk, move around, and pick up light things."
-datePublished: '2016-03-26T16:15:31.337Z'
-dateModified: '2016-03-26T15:53:44.108Z'
+datePublished: '2016-03-26T16:46:36.907Z'
+dateModified: '2016-03-26T16:46:36.117Z'
 title: Softbank’s Pepper Personal Robot Review
 author: []
 sourcePath: _posts/2016-03-26-softbanks-pepper-personal-robot-review.md
@@ -42,8 +42,8 @@ In the not so distant future personal robots will help manage everyday work. The
 
 Good: 
 
-Fun for the whole family. Friendly companion. Next-generation personal robotics. IBM is involved in its artificial intelligence development. Shares data collected with other Pepper robots to increase its capabilities.
+_Fun for the whole family. Friendly companion. Next-generation personal robotics. IBM is involved in its artificial intelligence development. Shares data collected with other Pepper robots to increase its capabilities._
 
 Not so good:
 
-Builds up unrealistic expectations of home robotics. A new programming language to learn. More functionality requires buying programs from manufacturer. Not available in the US yet.
+_Builds up unrealistic expectations of home robotics. A new programming language to learn. More functionality requires buying programs from manufacturer. Not available in the US yet._
