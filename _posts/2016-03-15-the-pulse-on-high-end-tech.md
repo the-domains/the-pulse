@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Looking for the latest and best high-end technology?\n \nDon’t know where to begin? look no further, because we have done all of the work for you. The Pulse team combines personal experience and research creating articles that organize complex high-end products into an easy to read reviews. Everything you need to know about the product is right here."
-datePublished: '2016-03-26T14:28:40.084Z'
-dateModified: '2016-03-26T14:27:33.937Z'
+datePublished: '2016-03-26T15:29:05.803Z'
+dateModified: '2016-03-26T15:28:53.090Z'
 title: The Pulse on High End Tech
 author: []
 sourcePath: _posts/2016-03-15-the-pulse-on-high-end-tech.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # The Pulse on High End Tech
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18259815-09af-4ea0-9819-1ec706fe7e0d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd700a0c-007b-4e02-b9c4-d5f61490241d.jpg)
 
 Looking for the latest and best high-end technology?
 Don't know where to begin? look no further, because we have done all of the work for you. The Pulse team combines personal experience and research creating articles that organize complex high-end products into an easy to read reviews. Everything you need to know about the product is right here.
