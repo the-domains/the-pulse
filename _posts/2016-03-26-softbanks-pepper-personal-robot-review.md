@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "Personal robots are starting show up in our homes. But if you think it’s going to mix a drink, cook a meal, or do laundry, think again. In fact, today's personal robots can help manage everyday work and entertain but In in spite of their sophistication, most home robots just talk, move around, and pick up light things."
-datePublished: '2016-03-26T16:46:36.907Z'
-dateModified: '2016-03-26T16:46:36.117Z'
+datePublished: '2016-03-26T17:09:04.687Z'
+dateModified: '2016-03-26T16:53:48.052Z'
 title: Softbank’s Pepper Personal Robot Review
 author: []
 sourcePath: _posts/2016-03-26-softbanks-pepper-personal-robot-review.md
