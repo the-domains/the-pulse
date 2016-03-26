@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: 'For the fast and the stylish, behold the Broon F830 Sport car.'
-datePublished: '2016-03-26T15:10:56.879Z'
-dateModified: '2016-03-26T15:07:38.807Z'
+datePublished: '2016-03-26T15:23:22.681Z'
+dateModified: '2016-03-26T15:22:31.420Z'
 title: Henes Broon F830 Sport Kids Car Review
 author: []
 sourcePath: _posts/2016-03-26-henes-broon-f830-sport-kids-car-review.md
@@ -38,14 +38,14 @@ The tablet is Wi-Fi enabled so your child can use it on or off the car to downlo
 
 Pros:
 
-1. Highly advanced
-2. Sophisticated-looking
-3. Safe
-4. Adapts to terrain
-5. Parents can control vehicle with remote 
+1. _Highly advanced_
+2. _Sophisticated-looking_
+3. _Safe_
+4. _Adapts to terrain_
+5. _Parents can control vehicle with remote _
 
 Cons: 
 
-1. Plastic finish may not look as good as metal 
-2. Not all features are simple for children to use 
-3. Lots of technology inside car may require repairs and replacements over the years
+1. _Plastic finish may not look as good as metal _
+2. _Not all features are simple for children to use _
+3. _Lots of technology inside car may require repairs and replacements over the years_
