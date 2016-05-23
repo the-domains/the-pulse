@@ -4,7 +4,7 @@
         <description><![CDATA[Pulse]]></description>
         <link>https://thegrid.ai/the-pulse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 17:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 20:21:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-pulse/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Softbank’s Pepper Personal Robot Review]]></title>
@@ -12,15 +12,6 @@
             <link>https://thegrid.ai/the-pulse/softbanks-pepper-personal-robot-review/index.html</link>
             <guid isPermaLink="false">c5b16fcf-a68b-49fc-98ce-cdb941212110</guid>
             <pubDate>Sat, 26 Mar 2016 17:11:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Pulse on High End Tech]]></title>
-            <description><![CDATA[<article><h1>The Pulse on High End Tech</h1><p>Looking for the latest and best high-end technology?
- 
-Don’t know where to begin? look no further, because we have done all of the work for you. The Pulse team combines personal experience and research creating articles that organize complex high-end products into an easy to read reviews. Everything you need to know about the product is right here.</p></article>]]></description>
-            <link>https://thegrid.ai/the-pulse/the-pulse-on-high-end-tech/index.html</link>
-            <guid isPermaLink="false">7799c48f-16b7-4657-8bbe-71d7b4664598</guid>
-            <pubDate>Sat, 26 Mar 2016 17:03:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
